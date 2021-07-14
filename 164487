@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="header">
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+         
+    </ul>
+  </nav>
+</div>
+
+<div class="flex">
+  <div class="box">
+    <div class="fl">
+    <img src="img.jpg" alt="" id="img2" />
+    <div class="podit">
+      <img src="img.jpg" alt="" class="img2" />
+    </div>
+  </div>
+  <div class="div2">
+    <img src="img2.jpg" alt="" />
+  <div class="podit">
+    <img src="img2.jpg" alt="" class="img3" />
+  </div>
+  </div>
+  <div class="rm">
+    <img src="img1.jpg" id="earh" />
+    <div class="podit">
+      <img src="img1.jpg" alt="" class="earth" />
+    </div>
+  </div>
+  <div class="bm">
+    <img src="img.jpg" alt="" />
+    <div class="podit">
+      <img src="img.jpg" alt="" class="jup" />
+    </div>
+  </div>
+ 
+</body>
+</html>
